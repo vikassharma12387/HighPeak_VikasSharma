@@ -1,0 +1,5 @@
+Number of employees: 2
+
+Here the goodies that are selected for distribution are:
+Microwave Oven: 9800
+Alexa: 9999
